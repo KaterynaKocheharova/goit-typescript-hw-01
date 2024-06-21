@@ -8,3 +8,4 @@ import "./basics/6";
 import "./basics/7";
 import "./generics/1";
 import "./generics/2";
+import "./generics/3";
