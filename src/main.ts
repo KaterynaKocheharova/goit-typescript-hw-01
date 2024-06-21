@@ -6,4 +6,5 @@ import "./basics/4";
 import "./basics/5";
 import "./basics/6";
 import "./basics/7";
-// import "./basics/8";
+import "./generics/1";
+import "./generics/2";
