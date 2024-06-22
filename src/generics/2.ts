@@ -38,3 +38,9 @@ const obj2: AllType = {
 
 const result1 = compare(obj1, obj2);
 console.log(result1);
+
+
+
+
+
+
